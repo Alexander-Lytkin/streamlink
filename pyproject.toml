@@ -89,7 +89,7 @@ streamlink = [
 
 # https://versioningit.readthedocs.io/en/stable/index.html
 [tool.versioningit]
-default-version = "0.0.0+unknown"
+default-version = "v1"
 
 [tool.versioningit.vcs]
 method = "git"
